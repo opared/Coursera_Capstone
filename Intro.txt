@@ -1,0 +1,12 @@
+How different are the metro stations in the city?
+
+I born and raise in a little city in Venezuela, when I grow up 
+I moved to Caracas and always preferred to travel into the city
+along with the metro, I barely used the bus to get to my destiny.
+I noticed that outside of many stations looks similarly. 
+Now I live in Santiago de Chile and I still use a lot the metro
+and still notice the similarities between some stations. 
+With foursquare, it is possible to get data and compare the station 
+and establish clusters and check how similar are them. 
+This clustering could help to clasify the stations and improve 
+the location for new stores or classify the zone with this information
