@@ -1,0 +1,5 @@
+For the sake of our studying, I'll take positions for the metro station from 
+Caracas Venezuela and Santiago de Chile, the station name's will be taken 
+from the Wikipedia page for the metro using the name of the station is possible 
+to get the coordinates from the geocoder package. With this, I'll get the nearby
+venues from Foursquare, and with that, I could compare the stations and clustering.
